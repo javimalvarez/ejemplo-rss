@@ -8,66 +8,42 @@
 			<title>Camiseta MARVEL</title>
 			<link>http://marvelgoods.com/t-shirt.html</link>
 			<description>
-				<![CDATA[
-				<table>
-					<tr><td>camiseta MARVEL Endgame - Become A Legend</td></tr>
-					<tr><td><img src="img/tshirt.jpg"/></td></tr>
-				</table> ]]>
+				<![CDATA[<span>>camiseta MARVEL Endgame - Become A Legend<br/><img src="img/tshirt.jpg"/></span> ]]>
 			</description>
 		</item>
 		<item>
 			<title>taza MARVEL</title>
 			<link>http://marvelgoods.com/mug.html</link>
 			<description>
-			<![CDATA[
-				<table>
-					<tr><td>taza MARVEL comic</td></tr>
-					<tr><td><img src="img/taza.jpg"/></td></tr>
-				</table> ]]>
+				<![CDATA[<span>taza MARVEL comic<br/><img src="img/taza.jpg"/></span>]]>
 			</description>
 		</item>
 		<item>
 			<title>Figura Thanos</title>
 			<link>http://marvelgoods.com/thanos30.html</link>
 			<description>
-				<![CDATA[
-				<table>
-					<tr><td>Figura Thanos Titan Marvel FX 30cm</td></tr>
-					<tr><td><img src="img src="img/thanos.jpg"/></td></tr>
-				</table> ]]>
+				<![CDATA[<span>Figura Thanos Titan Marvel FX 30cm<br/>img src="img src="img/thanos.jpg"/></span>]]>
 			</description>
 		</item>
 		<item>
 			<title>Funda iPhone MARVEL</title>
 			<link>http://marvelgoods.com/iPhoneXs-case.html</link>
 			<description>
-				<![CDATA[
-				<table>
-					<tr><td>Funda iPhone Xs Avengers Endgame - Avenge the Fallen! Phone Case</td></tr>
-					<tr><td><img src="img/iPhoneXs-case.jpg"/></td></tr>
-				</table> ]]>
+				<![CDATA[<span>Funda iPhone Xs Avengers Endgame - Avenge the Fallen! Phone Case<br/><img src="img/iPhoneXs-case.jpg"/></span>]]>
 			</description>
-		</item>7
+		</item>
 		<item>
 			<title>Sudadera Capitan América</title>
 			<link>http://marvelgoods.com/sweatshirt-capAmerica.html</link>
 			<description>
-				<![CDATA[
-				<table>
-					<tr><td>Sudadera Marvel Los Vengadores Escudo Capitán América Desgastado - Hombre - Negro</td></tr>
-					<tr><td><img src="img src="img/sudadera.jpg"/></td></tr>
-				</table> ]]>
+				<![CDATA[<span>Sudadera Marvel Los Vengadores Escudo Capitán América Desgastado - Hombre - Negro<br/><img src="img src="img/sudadera.jpg"/></span>]]>
 			</description>
 		</item>
 		<item>
 			<title>Toalla de los vengadores</title>
 			<link>http://marvelgoods.com/avengers-towel.html</link>
 			<description>
-				<![CDATA[
-				<table>
-					<tr><td>Toalla Vengadores algodón</td></tr>
-					<tr><td><img src="img/toalla.jpg"/></td></tr>
-				</table> ]]>
+				<![CDATA[<span>Toalla Vengadores algodón<br/><img src="img/toalla.jpg"/></span>]]>
 			</description>
 		</item>
 	</channel>
