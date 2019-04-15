@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Ragnarok Store</title>
+		<link>http://ragnarokstore.com</link>
+		<description>
+			<![CDATA[<span>Tienda oficial de MARVEL<br/><img src="https://www.dropbox.com/home/Im%C3%A1genes/rss?preview=Marvel_logo.jpg"/></span>]]>
+		</description>
+		<item>
+			<title>Camiseta MARVEL</title>
+			<link>http://ragnarokstore.com/t-shirt.html</link>
+			<description>
+				<![CDATA[<span>>camiseta MARVEL Endgame - Become A Legend<br/><img src="https://www.dropbox.com/home/Im%C3%A1genes/rss?preview=tshirt.jpg"/></span>]]>
+			</description>
+		</item>
+		<item>
+			<title>taza MARVEL</title>
+			<link>http://ragnarokstore.com/mug.html</link>
+			<description>
+				<![CDATA[<span>taza MARVEL comic<br/><img src="https://www.dropbox.com/home/Im%C3%A1genes/rss?preview=taza.jpg"/></span>]]>
+			</description>
+		</item>
+		<item>
+			<title>Figura Thanos</title>
+			<link>http://ragnarokstore.com/thanos30.html</link>
+			<description>
+				<![CDATA[<span>Figura Thanos Titan Marvel FX 30cm<br/><img src="https://www.dropbox.com/home/Im%C3%A1genes/rss?preview=thanos.jpg"/></span>]]>
+			</description>
+		</item>
+		<item>
+			<title>Funda iPhone MARVEL</title>
+			<link>http://ragnarokstore.com/iPhoneXs-case.html</link>
+			<description>
+				<![CDATA[<span>Funda iPhone Xs Avengers Endgame - Avenge the Fallen! Phone Case<br/><img src="https://www.dropbox.com/home/Im%C3%A1genes/rss?preview=iPhoneXs-case.jpg"/></span>]]>
+			</description>
+		</item>
+		<item>
+			<title>Sudadera Capitan América</title>
+			<link>http://ragnarokstore.com/sweatshirt-capAmerica.html</link>
+			<description>
+				<![CDATA[<span>Sudadera Marvel Los Vengadores Escudo Capitán América Desgastado Azul marino<br/><img src="https://www.dropbox.com/preview/Im%C3%A1genes/rss/sudadera.jpg"/></span>]]>
+			</description>
+		</item>
+		<item>
+			<title>Toalla de los vengadores</title>
+			<link>http://ragnarokstore.com/avengers-towel.html</link>
+			<description>
+				<![CDATA[<span>Toalla Vengadores algodón<br/><img src="https://www.dropbox.com/home/Im%C3%A1genes/rss?preview=toalla.jpg"/></span>]]>
+			</description>
+		</item>
+	</channel>
+</rss>
